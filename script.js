@@ -8,3 +8,4 @@ function increaseScore() {
 }
 
 Button.addEventListener("click", increaseScore)
+
